@@ -1,0 +1,45 @@
+# ===== Unity generated =====
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Aa]ssets/[Aa]ssetStoreTools*
+[Aa]ssets/[Pp]lugins/[Ee]ditor/[Jj]etBrains*
+crashlytics-build.properties
+
+# ===== Visual Studio / Rider / VS Code =====
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.suo
+*.unityproj
+*.pidb
+*.booproj
+*.svd
+*.tmp
+
+# ===== OS =====
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ===== Local tooling / Claude =====
+.claude/
+
+# ===== Unity crash / build artifacts =====
+sysinfo.txt
+*.apk
+*.aab
+*.unitypackage
+*.app
